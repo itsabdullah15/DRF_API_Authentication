@@ -62,9 +62,7 @@ graph TD;
 ## Technologies Used
 - **Django REST Framework (DRF)**
 - **JWT Authentication**
-- **PostgreSQL / SQLite**
-- **Docker (Optional)**
-- **Swagger API Documentation**
+- **Postman API**
 
 ## Installation & Setup
 1. Clone the repository:
